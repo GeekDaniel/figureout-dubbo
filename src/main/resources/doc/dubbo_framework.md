@@ -6,7 +6,7 @@
 - dubbo-rpc:rpc能力, 和"提供可远程调用能力"不是同一个意思吗。。。
 - dubbo-filter:
 - dubbo-cluster:提供集群能力
-- dubbo-registry:注册中心，提供注册能力
+- dubbo-registry:注册中心，提供注册、订阅、重试能力
 - dubbo-monitor:dubbo监控中心，和metrics是什么样的关系
 - dubbo-config:
 - dubbo-demo:demo
